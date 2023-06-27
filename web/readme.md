@@ -60,5 +60,3 @@ Connect MySQL and execute [user.sql](biz/model/sql/user.sql).
 cd bizdemo/hertz_gorm_gen
 go build -o hertz_gorm_gen &&./hertz_gorm_gen
 ```
-
-Test
